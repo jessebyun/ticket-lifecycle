@@ -27,8 +27,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <img src="https://imgur.com/cA2zzI7.png" height="80%" width="80%" alt="Intake"/>
+  <br />
   <img src="https://imgur.com/Z73W20L.png" height="80%" width="80%" alt="Intake"/>
+  <br />
   <img src="https://imgur.com/QDNyXAV.png" height="80%" width="80%" alt="Intake"/>
+  <br />
 </p>
 <p>
 Created multiple tickets as different users through the support ticketing system. Once tickets are created, a Queue Manager can prioritize tickets according to service level agreements. Tickets can also be assigned to a specific agent or team. 
@@ -40,7 +43,10 @@ Created multiple tickets as different users through the support ticketing system
 
 <p>
   <img src="https://imgur.com/pGKa1Zo.png" height="80%" width="80%" alt="Assignment"/>
+  <br />
+  <br />
 <img src="https://imgur.com/h4uiTYt.png" height="80%" width="80%" alt="Assignment"/>
+  <br />
 </p>
 <p>
 Logged in as a ticket Queue Manager and after reviewing description of problem: defined SLA, priority of ticket, and assigned to the most appropriate team. 
@@ -52,7 +58,10 @@ Logged in as a ticket Queue Manager and after reviewing description of problem: 
 
 <p>
 <img src="https://imgur.com/We0JhbT.png" height="80%" width="80%" alt="Communication"/>
+  <br />
+  <br />
   <img src="https://imgur.com/WECXUv5.png" height="80%" width="80%" alt="Communication"/>
+  <br />
 </p>
 <p>
 Logged in as a Help Desk Analyst and reviewed ticket assigned to my team. Did not have immediate resolution; however, implemented a temporary fix to until solution was found and updated end-user. Once solution was found, corrected the issue and updated ticket then marked as resolved. 
