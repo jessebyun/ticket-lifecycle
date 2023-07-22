@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img src="https://imgur.com/QDNyXAV.png" height="80%" width="80%" alt="Intake"/>
 </p>
 <p>
-Created multiple tickets as different users through the support ticketing system. Once tickets are created, a queue manager can prioritize tickets according to service level agreements. Tickets can also be assigned to a specific agent or team. 
+Created multiple tickets as different users through the support ticketing system. Once tickets are created, a Queue Manager can prioritize tickets according to service level agreements. Tickets can also be assigned to a specific agent or team. 
 </p>
 <br />
 <br />
