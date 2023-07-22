@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img src="https://imgur.com/QDNyXAV.png" height="80%" width="80%" alt="Intake"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created multiple tickets as different users through the support ticketing system. Once tickets are created, a queue manager can prioritize tickets according to service level agreements. Tickets can also be assigned to a specific agent or team. 
 </p>
 <br />
 <br />
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://imgur.com/h4uiTYt.png" height="80%" width="80%" alt="Assignment"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logged in as a ticket Queue Manager and after reviewing description of problem: defined SLA, priority of ticket, and assigned to the most appropriate team. 
 </p>
 <br />
 <br />
@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://imgur.com/WECXUv5.png" height="80%" width="80%" alt="Communication"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logged in as a Help Desk Analyst and reviewed ticket assigned to my team. Did not have immediate resolution; however, implemented a temporary fix to until solution was found and updated end-user. Once solution was found, corrected the issue and updated ticket then marked as resolved. 
 </p>
 <br />
 <br />
@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://imgur.com/xWx7KXo.png" height="80%" width="80%" alt="Resolution"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Above is a screenshot of all resolved tickets as of today and which IT professional it was closed by. 
 </p>
 <br />
 <br />
